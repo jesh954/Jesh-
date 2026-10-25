@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shorts Blocker</string>
+    <string name="accessibility_service_description">Tracks how many YouTube Shorts you scroll daily, displays a live counter badge, and closes Shorts when you reach your daily limit.</string>
+</resources>
